@@ -7,11 +7,11 @@ Sign Up             |  Sign In
 :-------------------------:|:-------------------------:
 ![](AppScreenshots/screenshot1.png)  |  ![](AppScreenshots/screenshot2.png)
 
-Stock Search            |  Trading Feed
+Stock Search            |   Connection Search
 :-------------------------:|:-------------------------:
 ![](AppScreenshots/screenshot3.png)  |  ![](AppScreenshots/screenshot4.png)
 
-Connection Search             |  Trader Profile
+Trading Feed            |  Trader Profile
 :-------------------------:|:-------------------------:
 ![](AppScreenshots/screenshot5.png)  |  ![](AppScreenshots/screenshot6.png)
 
